@@ -1,4 +1,4 @@
-                                                                            Face Recognition using Raspberry Pi
+Face Recognition using Raspberry Pi
 
 This project implements a real-time face recognition system on a Raspberry Pi using the OpenCV and face_recognition libraries. It captures live video from a camera, detects faces, and identifies them using pre-trained encodings.
 
